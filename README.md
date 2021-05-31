@@ -16,6 +16,8 @@ Be alerted when your Discord server is under attack from spam bots and ban them 
 
 ## Features:
 
+**Note: All time inputs must be in UTC time!**
+
 1) Alert when mass joins occur at a threshhold of your choice (default >= 11) 
 ![image](https://user-images.githubusercontent.com/63066020/120230446-3609a380-c247-11eb-8a40-e35800418eda.png)
 2) Commands that can: 
