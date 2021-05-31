@@ -216,7 +216,7 @@ class AttackCheck(commands.Cog):
         aliases=("banregex",)
     )
     # THIS IS RESTRICTED TO ADMINISTRATORS AS IT CAN BE DANGEROUS  -  POTENTIAL TO BAN ALL MEMBERS WITH +banregex .*
-    @commands.bot_has_permissions(administrator=True)
+    @commands.has_permissions(administrator=True)
     async def ban_by_regex(self, ctx, *, regex_pattern: str):
         compiled = re.compile(regex_pattern)
 
