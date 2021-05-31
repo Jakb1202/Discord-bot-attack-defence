@@ -3,8 +3,8 @@ Be alerted when your Discord server is under attack from spam bots and ban them 
 
 ## Dependencies
 
--Python 3.7 or higher
--discordpy: [Pypi](https://pypi.org/project/discord.py/), [Github](https://github.com/Rapptz/discord.py), [Docs](https://discordpy.readthedocs.io/en/latest/)
+- Python 3.7 or higher
+- discordpy: [Pypi](https://pypi.org/project/discord.py/), [Github](https://github.com/Rapptz/discord.py), [Docs](https://discordpy.readthedocs.io/en/latest/)
 
 ## Setup
 
